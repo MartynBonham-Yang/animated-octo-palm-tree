@@ -1,3 +1,4 @@
 Good morning and welcome to this test repository!!!
 
 THIS EDIT EXISTS ONLY IN CHERRY BRANCH. Spooky, isn't it?
+Edit2: This edit was done vim! 
