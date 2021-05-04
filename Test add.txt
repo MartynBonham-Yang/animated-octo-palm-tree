@@ -1,1 +1,3 @@
 Good morning and welcome to this test repository!!!
+
+THIS EDIT EXISTS ONLY IN CHERRY BRANCH. Spooky, isn't it?
