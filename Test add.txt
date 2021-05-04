@@ -2,3 +2,5 @@ Good morning and welcome to this test repository!!!
 
 THIS EDIT EXISTS ONLY IN CHERRY BRANCH. Spooky, isn't it?
 Edit2: This edit was done vim! 
+
+In insert mode... after merging branches... I am now back in Master branch... this is now only found in master branch...
